@@ -1,14 +1,16 @@
 ***✨ v2.51 – Version Changes:***
 
-→ Add function to add HMA-oss configs
+→ Remove Set Up Custom Keybox. We will fix the bugs and update in next version
 
-→ Add resetprop function to reset some prop to hide some detections
+→ Use Termux to get files on Internet without depend on busybox module. This will have fetch keybox will work multiple devices, including: old, mediatek devices,... 
+
+→ Improve target.txt, set mode ? instead of ! to get better results for devices tee broken.
 
 ***📌 Other Changes:***
 
 → Fix some function which are not properly translated
-You can help us to translate via [here](https://crwd.in/yurikey/e80b9adaa706626608af1cf366ca41fe2694978)
 
 → Various performance improvement
 
 → [All changes](https://github.com/YurikeyDev/yurikey/compare/v2.5...main).
+
